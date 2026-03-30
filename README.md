@@ -5,17 +5,17 @@
  - <b>Retrieving Data from a Single Table</b>
  - <b>Filtering and Calculating Data</b>
  - <b>Summarizing the Data</b>
-
+ - <b>Joining data</b>
 
 <h2>SQL Project 1</h2>
-In preparation for success planning, the AVP of Lending is reviewing the lending portfolio for Stillwater Community Bank and is interested to see the Mortgage and Auto Loans approved over $20K. I would like to review the top 10 loans with the highest loan amount and should include the following: ID of the loan, amount of the loan, type of loan, and status of the loan.
+The Data Management team is updating all records in their database. Unfortunately, they don’t have access to our database and in need of the following information for all of our customers. ID, First name, Last name, Contact number, Age, Email address, and Account open date.
 <br />
 
 
 ###
 <p align="center">
-Extracting, Sorting, and Limiting Data: <br/>
-<img width="203" alt="Image" src="https://github.com/user-attachments/assets/6890fef1-daa2-4d67-993e-a9b23dfb4a9f" />
+Joining Data: <br/>
+<img width="590" height="199" alt="Image" src="https://github.com/user-attachments/assets/c65af2f1-8ceb-49b7-a922-1750a5d37e75" />
 <br />
 <br />
 
